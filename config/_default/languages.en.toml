@@ -8,18 +8,18 @@ rtl = false
 title = "Blowfish"
 # logo = "img/logo.png"
 # secondaryLogo = "img/secondary-logo.png"
-# description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
+description = "My personal website for something idk, instagram isn't enough"
+copyright = "© Fathi Naufal H. All rights reserved. "
 
 dateFormat = "2 January 2006"
 
 [author]
-   name = "Your name here"
+   name = "Hanif012"
    image = "img/blowfish_logo.png"
-   headline = "I'm only human"
-   bio = "A little bit about you"
+   headline = "Blue Chewbacca"
+   bio = "a slice of π about me"
    links = [
-#     { email = "mailto:hello@your_domain.com" },
+     { email = "mailto:fathihanif2004@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -39,7 +39,7 @@ dateFormat = "2 January 2006"
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+     { linkedin = "https://linkedin.com/in/fathi-naufal-hanif-028b69220" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
@@ -59,6 +59,6 @@ dateFormat = "2 January 2006"
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+     { youtube = "https://www.youtube.com/channel/UC97AIMHPt5Tokd64VmGclQA" },
 #     { ko-fi = "https://ko-fi.com/username" },
    ]
