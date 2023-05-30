@@ -5,8 +5,8 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Blowfish"
-# logo = "img/logo.png"
+title = "Hanif012"
+logo = "img/papercraft.png"
 # secondaryLogo = "img/secondary-logo.png"
 description = "My personal website for something idk, instagram isn't enough"
 copyright = "© Fathi Naufal H. All rights reserved. "
@@ -15,9 +15,9 @@ dateFormat = "2 January 2006"
 
 [author]
    name = "Hanif012"
-   image = "img/blowfish_logo.png"
-   headline = "Blue Chewbacca"
-   bio = "a slice of π about me"
+   image = "img/papercraft.jpg"
+   headline = "Green Gun Walker"
+   bio = "A slice of π about me"
    links = [
      { email = "mailto:fathihanif2004@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
